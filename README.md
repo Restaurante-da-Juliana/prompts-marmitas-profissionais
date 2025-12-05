@@ -38,3 +38,18 @@ tons naturais na comida (branco do arroz, dourado do frango, verde dos legumes)
 superfície fria escura (cinza grafite / preto marmorizado)
 
 A vibração geral é de fotografia publicitária profissional, com estética premium, nitidez alta na marmita e desfoque profundo no fundo. A cena transmite sensação de comida fresca, bem apresentada e apetitiva, com atmosfera sofisticada e moderna."
+
+prompt 02 (deu bom) - 
+"Use a imagem enviada como referência obrigatória. Preserve 100% a aparência real da marmita: mesma comida, mesmas cores, textura, proporções, disposição dos ingredientes e formato da embalagem. Não substitua nada, não recrie nada e não altere a composição interna da marmita. Apenas melhore visualmente.
+
+Posicione a marmita corretamente sobre a bancada de mármore preto com veios brancos, garantindo que a base toque totalmente a superfície — sem flutuar, sem distorcer e sem tombar. A marmita deve estar perfeitamente apoiada no mármore, com sombras realistas correspondentes.
+
+Defina a câmera em um ângulo levemente inclinado, não totalmente de cima. Utilize uma visão aérea suave, entre 20° e 35°, como uma foto de gastronomia premium capturada um pouco acima da bancada, olhando diagonalmente para o prato. Evite qualquer perspectiva exagerada.
+
+Use o cenário escuro, elegante e minimalista do fundo enviado: ambiente profundo com leve neblina/smoke, tons escuros, e três pontos de luz desfocados (bokeh quente) ao fundo. Integre a marmita de forma natural a esse ambiente.
+
+Ajuste a tonalidade da marmita para combinar com o clima do cenário: iluminação difusa superior, sombras suaves, reflexos naturais sobre o plástico e harmonia de cor com o fundo escuro.
+
+Aprimore a qualidade da comida: nitidez extrema, texturas realistas, brilho natural do frango, arroz e legumes, microdetalhes e profundidade de campo suave. Adicione vapor realista subindo da marmita de forma sutil e cinematográfica.
+
+Resultado final: uma fotografia gourmet moderna e premium, capturada em qualidade 4K/Ultra-HD com câmera profissional, transmitindo sofisticação, calor, apetite e credibilidade — sempre com fidelidade absoluta ao produto original."
