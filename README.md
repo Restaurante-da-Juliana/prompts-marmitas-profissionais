@@ -53,3 +53,39 @@ Ajuste a tonalidade da marmita para combinar com o clima do cenário: iluminaç�
 Aprimore a qualidade da comida: nitidez extrema, texturas realistas, brilho natural do frango, arroz e legumes, microdetalhes e profundidade de campo suave. Adicione vapor realista subindo da marmita de forma sutil e cinematográfica.
 
 Resultado final: uma fotografia gourmet moderna e premium, capturada em qualidade 4K/Ultra-HD com câmera profissional, transmitindo sofisticação, calor, apetite e credibilidade — sempre com fidelidade absoluta ao produto original."
+
+
+prompt 03 (complemento ao 02) - 
+"Crie uma arte promocional no estilo visual apresentado:
+
+
+
+Um layout vibrante, chamativo e moderno, com fundo escuro texturizado, pinceladas e respingos em vermelho e branco criando dinamismo. Insira elementos gráficos como folhas, pinceladas curvas, partículas e efeitos de movimento, que dão sensação de energia e impacto visual.
+
+Use tipografia grande e ousada: letras brancas em estilo brush, bold, com textura levemente irregular, criando um visual urbano e expressivo. Aplique sombra, contorno suave ou glow branco para destacar a tipografia sobre o fundo escuro.
+
+
+
+O texto principal deve sempre parecer destacado, com grande peso visual, estilo graffiti/brush, bem contrastado.
+
+Inclua também elementos de destaque como selos circulares, etiquetas de preço ou chamadas, usando cores fortes (vermelho, amarelo, branco). Esses selos devem ter bordas sólidas, sombras leves e tipografia clara e chamativa, mantendo aparência de anúncio promocional energético.
+
+Na parte inferior, inclua área para informações adicionais em estilo compacto: pequenos ícones, telefones, site ou CTA em botões arredondados com cor vibrante (vermelho ou amarelo), gerando contraste com o fundo escuro.
+
+Todo o conjunto deve transmitir um visual moderno, vibrante, energético e comercial, com composição forte, alto contraste e elementos decorativos espalhados ao redor — deixando a arte flexível para qualquer texto que eu quiser colocar.
+
+
+
+Com base na descrição, quero colocar algumas informações:
+
+restaurante: Restaurante da Juliana,
+
+cidade: Itambé-PR
+
+modos de retirada: Balcão e Entrega
+
+formas de pagamento: dinheiro, cartão, pix e itambécard
+
+telefone e whatsapp: 44988129535
+
+preços: marmita mini - 16, marmita media 20, marmita grande 22"
