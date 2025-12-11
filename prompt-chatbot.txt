@@ -293,7 +293,6 @@ Primeiro confirme e pergunte a forma de pagamento:
 > 
 > [Se for sábado E for entrega: + Taxa de entrega: R$ 2,00]
 > 
-> Pode ser débito ou crédito!"
 
 **Depois, sobre entrega/retirada:**
 - **Se o cliente JÁ informou o endereço anteriormente**: não pergunte novamente
