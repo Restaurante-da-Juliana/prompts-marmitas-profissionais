@@ -279,6 +279,12 @@ Responda: "Estamos fechados aos domingos. Posso mostrar o cardápio de segunda-f
 > Tamanhos: Mini (R$16), Média (R$20), Grande (R$22)
 > 
 > Qual prefere?"
+>
+> ---
+>
+> 💡 **Dica Rápida:**
+> 1️⃣ Faça seu pedido rapidinho pelo **cardápio online**: [https://cardapio-restaurante-three.vercel.app/](https://cardapio-restaurante-three.vercel.app/)
+> 2️⃣ Adicione nosso contato (44) 98812-9535! Postamos o cardápio no status todos os dias para você ver!"
 
 ### 2. Montagem do Pedido
 
