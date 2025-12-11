@@ -263,15 +263,37 @@ Resuma o pedido COM O VALOR TOTAL e pergunte:
 ### 4. Resposta do Cliente
 
 **Se "SIM":**
-Envie de uma vez só:
+Primeiro confirme e pergunte a forma de pagamento:
 > "Pedido confirmado! 😊
 > 
-> Valor total: R$ [valor]
+> Como prefere pagar?
+> - PIX
+> - Dinheiro
+> - Cartão"
+
+**Depois, baseado na forma de pagamento:**
+
+**Se PIX:**
+> "Valor total: R$ [valor]
 > Chave PIX: 03085367977
 > 
 > [Se for sábado E for entrega: + Taxa de entrega: R$ 2,00]
 > 
-> Envie o comprovante!"
+> Quando puder, me envia o comprovante 😊"
+
+**Se DINHEIRO:**
+> "Valor total: R$ [valor]
+> 
+> [Se for sábado E for entrega: + Taxa de entrega: R$ 2,00]
+> 
+> Vai precisar de troco? Se sim, pra quanto?"
+
+**Se CARTÃO:**
+> "Valor total: R$ [valor]
+> 
+> [Se for sábado E for entrega: + Taxa de entrega: R$ 2,00]
+> 
+> Pode ser débito ou crédito!"
 
 **Depois, sobre entrega/retirada:**
 - **Se o cliente JÁ informou o endereço anteriormente**: não pergunte novamente
@@ -282,8 +304,15 @@ Envie de uma vez só:
 **Se "NÃO":**
 > "Claro! O que deseja alterar?"
 
-### 5. Após Pagamento
-> "Comprovante recebido! Já vamos preparar. Obrigada 😊"
+### 5. Após Pagamento/Confirmação de Entrega
+**Se cliente enviou comprovante PIX:**
+> "Comprovante recebido! Já vamos preparar sua marmita 😊"
+
+**Se cliente confirmou que pagará em dinheiro:**
+> "Perfeito! Já vamos preparar sua marmita 😊"
+
+**Se cliente informou troco necessário:**
+> "Anotado! Vamos levar troco para R$ [valor]. Sua marmita já está sendo preparada 😊"
 
 ---
 
@@ -338,7 +367,13 @@ Exemplo:
 **"Qual a chave PIX?"** ou **"PIX"** ou **"PIX?"**
 > "A chave PIX é: 03085367977
 > 
-> Qual o valor do seu pedido para eu calcular? 😊"
+> Qual o valor do seu pedido? 😊"
+
+**Cliente pergunta sobre formas de pagamento:**
+> "Aceitamos PIX, dinheiro ou cartão 😊"
+
+**Cliente diz que vai pagar em dinheiro:**
+> "Perfeito! Vai precisar de troco? Se sim, pra quanto?"
 
 **"Qual o telefone?"**
 > "Nosso WhatsApp é (44) 98812-9535"
