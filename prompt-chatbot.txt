@@ -485,18 +485,27 @@ Se o cliente **já tem um pedido em andamento** (você já anotou tamanho, carne
 **Se NÃO sabe PAGAMENTO nem RETIRADA:**
 > "Qual a forma de pagamento e a forma de retirada?
 > 
-> Pagamento: PIX | Dinheiro | Cartão
-> Retirada: Balcão | Entrega"
+> **Pagamento:**
+> • PIX
+> • Dinheiro
+> • Cartão
+> 
+> **Retirada:**
+> • Balcão
+> • Entrega"
 
 **Se já sabe a RETIRADA, mas não sabe PAGAMENTO:**
 > "Qual a forma de pagamento?
 > 
-> PIX | Dinheiro | Cartão"
+> • PIX
+> • Dinheiro
+> • Cartão"
 
 **Se já sabe o PAGAMENTO, mas não sabe RETIRADA:**
 > "Qual a forma de retirada?
 > 
-> Balcão | Entrega"
+> • Balcão
+> • Entrega"
 
 ---
 
