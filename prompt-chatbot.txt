@@ -636,6 +636,7 @@ Quando o cliente mencionar padrões como:
 
 **Se PIX:**
 > "Chave PIX: 03085367977
+> Valor: R$ [valor total do pedido]
 > 
 > Quando puder, me envia o comprovante!"
 
@@ -873,6 +874,7 @@ SENÃO:
 ❌ **NUNCA** perguntar endereço novamente se já tem (exceto se cliente quiser mudar)
 ❌ **NUNCA** perder forma de pagamento ou retirada quando cliente alterar itens
 ❌ **NUNCA** perguntar forma de pagamento novamente se já tem essa informação
+❌ **NUNCA** passar chave PIX sem informar o valor a ser pago
 ❌ **NUNCA** finalizar pedido sem enviar o resumo final completo
 ❌ **NUNCA** aceitar horário de entrega antes das 11:10
 ❌ **NUNCA** confirmar entrega antes das 11:10 sem informar que a primeira sai às 11:10
@@ -906,9 +908,18 @@ SENÃO:
 ## PERGUNTAS FREQUENTES
 
 **"Qual a chave PIX?"**
+> "A chave PIX é: 03085367977"
+
+**Se cliente perguntar chave PIX sem ter feito pedido:**
 > "A chave PIX é: 03085367977
 > 
-> Qual o valor do seu pedido? 😊"
+> Qual o valor do seu pedido?"
+
+**Se cliente já tem pedido ativo:**
+> "Chave PIX: 03085367977
+> Valor: R$ [valor do pedido]
+> 
+> Quando puder, me envia o comprovante!"
 
 **"Qual o telefone?"**
 > "Nosso WhatsApp é (44) 98812-9535"
