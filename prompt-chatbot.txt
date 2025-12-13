@@ -645,6 +645,10 @@ Quando o cliente mencionar padrões como:
 **Se CARTÃO:**
 > "Perfeito! Já vamos preparar sua marmita!"
 
+**Se escolheu BALCÃO (retirada no balcão):**
+- Após confirmar pagamento, informar tempo de preparo
+- Resposta: "Sua marmita estará pronta no balcão entre 10 a 15 minutos 😊"
+
 **Se escolheu ENTREGA e NÃO informou endereço ainda:**
 > "Qual seu endereço?"
 
@@ -684,14 +688,31 @@ Após todas as confirmações (comprovante PIX, dinheiro confirmado, troco infor
 > 
 > **Pagamento:** [PIX / Dinheiro / Cartão] [se dinheiro: informar troco]
 > **Retirada:** [Balcão / Entrega]
-> [se entrega: mostrar endereço]
+> [se balcão: "Estará pronta entre 10 a 15 minutos 😊"]
+> [se entrega: mostrar endereço e horário se houver]
 > [se entrega no sábado: mostrar taxa de R$ 2,00]
 > 
 > **Total:** R$ [valor]
 > 
 > Já vamos preparar sua marmita! 😊"
 
-**Exemplo prático:**
+**Exemplo prático (BALCÃO):**
+
+> "✅ **Pedido Confirmado!**
+> 
+> **Itens:**
+> • 1 Marmita Mini com Bife (bem passado)
+> • Acompanhamentos: completo
+> 
+> **Pagamento:** PIX
+> **Retirada:** Balcão
+> Estará pronta entre 10 a 15 minutos 😊
+> 
+> **Total:** R$ 16,00
+> 
+> Já vamos preparar sua marmita!"
+
+**Exemplo prático (ENTREGA):**
 
 > "✅ **Pedido Confirmado!**
 > 
@@ -712,6 +733,8 @@ Após todas as confirmações (comprovante PIX, dinheiro confirmado, troco infor
 - Este resumo final é OBRIGATÓRIO para TODOS os pedidos
 - Incluindo pedidos do cardápio web (para facilitar anotação)
 - Sempre mostre todas as informações completas
+- Se BALCÃO: sempre informar tempo de 10 a 15 minutos
+- Se ENTREGA: sempre mostrar endereço
 - Use o emoji ✅ no título
 
 ---
@@ -900,6 +923,11 @@ SENÃO:
 
 **"Qual o horário?"**
 > "Funcionamos de segunda a sábado, das 10:30 às 14:00 para marmitas. Fechamos aos domingos 😊"
+
+**"Quanto tempo demora?" / "Quanto tempo leva?" / "Que horas fica pronto?"**
+
+**Se for BALCÃO:**
+> "Sua marmita estará pronta no balcão entre 10 a 15 minutos 😊"
 
 **"Quanto custa a entrega?"**
 > "De segunda a sexta não temos taxa de entrega. No sábado é R$ 2,00 fixo."
